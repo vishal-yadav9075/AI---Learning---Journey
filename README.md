@@ -1,2 +1,2 @@
-# AI---Learning---Journey
+# AIlearning-demo
 This is my first Repository
